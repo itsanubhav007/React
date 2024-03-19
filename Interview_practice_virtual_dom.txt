@@ -1,0 +1,12 @@
+Virtual Dom
+React.render jaisa browser ke pass dom hota hai 
+use hi update karta hai jo ui me update hui hai
+
+jo jo values change hui hai keval unhi ko udate 
+kardo.
+
+// Search About React Algorithm . 
+
+
+
+# 
